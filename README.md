@@ -21,6 +21,8 @@ This Python script collects temperature data for a list of cities from the OpenW
    ```bash
    python your_script_name.py
    ```
+## Open Weather link:
+https://home.openweathermap.org/users/sign_in
 
 ## Output
 - The script will print the temperature (in Kelvin) and weather description for each city to the console.
