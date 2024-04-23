@@ -1,5 +1,5 @@
 
-# Temperature Data Collector
+# Temperature Data 
 
 This Python script collects temperature data for a list of cities from the OpenWeatherMap API and saves it to a CSV file.
 
